@@ -1,0 +1,62 @@
+body{
+    padding: 0 50px 50px 50px;
+}
+.submit-area{
+    margin-top: 50px;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+    
+}
+.submit-area2{
+    margin-top: 50px;
+    padding: 25px 10px 10px 10px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+    height: auto;
+}
+#logo-design{
+    
+    height: 200px;
+    width: 300px;
+    
+    
+}
+#font{
+    font-family: 'Overpass', sans-serif;
+    font-family: 'Pacifico', cursive;
+}
+#font-2{
+    font-family: 'Kanit', sans-serif;
+}
+#font-3{
+    font-family: 'Satisfy', cursive;
+
+}
+#transaction-area{
+    display: none;
+    padding: 100px;
+}
+
+.box{
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+    height: 100px ;
+    color: white;
+    padding: 20px 10px 10px 10px;
+    
+
+    
+}
+.Deposit{
+    background-color: slateblue;
+    
+}
+.Withdraw{
+    background-color: lightsalmon;
+    
+}
+.Balance{
+    background-color: orange;
+    
+}
